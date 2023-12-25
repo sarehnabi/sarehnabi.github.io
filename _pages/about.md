@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-# subtitle: Researcher, Amazon Ads
+subtitle: Researcher, Amazon Ads
 
 profile:
   align: left
