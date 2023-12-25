@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist, Amazon Ads
+subtitle: Postdoc Scholar, Amazon Ads
 
 profile:
   align: left
