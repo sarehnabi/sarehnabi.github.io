@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 # subtitle: Researcher, Amazon Ads
 
@@ -13,14 +13,12 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral scholar in the sponsored ads team at Amazon, working under Dr. Lihong Li’s supervision. I joined the Amazon Advertising group as part of the early career scientist program launched in the spring of 2021; more info here. My current research at Amazon focuses on Reinforcement Learning (RL) applications in advertising.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I worked at Microsoft for a few years as an Applied Research Scientist focused on integrating machine learning solutions with Dynamics 365 business products. I received my Ph.D. in Information System and Operations Management from the University of Washington in 2018 under Prof. Hamed Mamani’s supervision. My Ph.D. research focused on the applications of contextual bandits in dynamic pricing and online advertising. My previous educational background is an undergrad in Math from the Sharif University of Technology in Iran and masters in Math and Economics from Simon Fraser University in Canada.
